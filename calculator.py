@@ -3,7 +3,7 @@
 print("SIMPLE CALCULATOR BY JC CANLAS\n--------------------------------\n")
 
 firstNum = int(input("Enter first number: "))
-secondNum = int(input("Enter second number: "))
+secondNum = int(input("Enter second number: \n"))
 sumOfTwoNum = firstNum + secondNum
 diffOfTwoNum = firstNum - secondNum
 productOfTwoNum = firstNum * secondNum
@@ -13,7 +13,7 @@ modOfTwoNum = firstNum % secondNum
 
 
 
-print("\nThe sum of two numberS is: ", sumOfTwoNum)
+print("The sum of two numberS is: ", sumOfTwoNum)
 print("The difference of two numbers is: ", diffOfTwoNum)
 print("The product of two numbers is: ", productOfTwoNum)
 print("The quotient of two numbers is: ", qoutOfTwoNum)
